@@ -1,3 +1,4 @@
+//2-) Se ingresan la cantidad de horas trabajadas de un empleado  y sabiendo que el valor por hora es de $30. Determinar su sueldo. 
 #include <stdio.h>
 #include <stdlib.h>
 
