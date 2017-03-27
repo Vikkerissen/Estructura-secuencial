@@ -1,3 +1,5 @@
+/*6-) Conociendo los asistentes a un cine el día miércoles y sabiendo que el precio del cine es de $50 y que por ser miércoles tiene un descuento del 10%.
+Calcular la recaudación del cine.*/
 #include <stdio.h>
 #include <stdlib.h>
 
