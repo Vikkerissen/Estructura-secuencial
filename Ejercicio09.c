@@ -1,3 +1,8 @@
+/*9-) En una producción de plafones se sabe que el 2.5% son defectuosos. Conociendo la cantidad fabricada.
+Determinar: 
+a-) Cantidad de plafones aceptados.
+b-) Cantidad de plafones defectuosos.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
