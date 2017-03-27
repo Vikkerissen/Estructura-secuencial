@@ -1,3 +1,5 @@
+/*7-) El precio para un vuelo es de $880 en clase turista y se aplica un incremento del 30% en primera clase.
+Se conoce la cantidad de pasajes de clase turista y de primera clase. Obtener la recaudación del vuelo.*/
 #include <stdio.h>
 #include <stdlib.h>
 
